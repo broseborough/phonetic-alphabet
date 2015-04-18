@@ -1,14 +1,14 @@
 {
   "name": "phonetic-alphabet",
   "version": "1.0.0",
-  "description": "A very simple library to convert between latin characters and the phonetic alphabet",
+  "description": "A very simple node module to convert between latin characters and the phonetic alphabet",
   "main": "phonetic-alphabet.js",
   "scripts": {
     "test": "mocha test"
   },
   "repository": {
     "type": "git",
-    "url": "git@git.geekli.st:broseborough/phonetic-alphabet.git"
+    "url": "git@github.com:broseborough/phonetic-alphabet.git"
   },
   "keywords": [
     "phonetic",
