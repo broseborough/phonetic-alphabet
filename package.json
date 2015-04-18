@@ -1,0 +1,23 @@
+{
+  "name": "phonetic-alphabet",
+  "version": "1.0.0",
+  "description": "A very simple library to convert between latin characters and the phonetic alphabet",
+  "main": "phonetic-alphabet.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.geekli.st:broseborough/phonetic-alphabet.git"
+  },
+  "keywords": [
+    "phonetic",
+    "alphabet"
+  ],
+  "author": "Braden Roseborough (http://broseborough.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}
